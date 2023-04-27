@@ -2,7 +2,7 @@
     <div>
         <header class=" overflow-hidden bg-black">
             <header_logo></header_logo>
-            <navbar></navbar>
+            <fetbar></fetbar>
         </header>
         
         <div>

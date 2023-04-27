@@ -17,8 +17,12 @@ Some of the most prominent Polish Modernist artists include:
 - Jacek Malczewski
 - Olga Boznańska
 
+![myimage](/content-cool.jpg)
+
 ## Legacy
 
 The legacy of Polish Modernism can be seen in the continued vitality of Polish art and culture. The movement helped to establish a distinctive Polish identity that is still celebrated today.
 
 In conclusion, Polish Modernism was a dynamic and influential cultural movement that had a significant impact on the development of Polish art, literature, and culture. Its legacy continues to inspire and influence artists and intellectuals in Poland and around the world.
+
+_Auther:ChatGPT_
