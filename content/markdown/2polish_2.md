@@ -1,6 +1,6 @@
 ![myimage](/content-img.jpg)
 
-# Historical Context
+#### Historical Context
 
 Polish Modernism emerged in the late 19th century, during a period of intense social and political change in Poland. After more than a century of foreign rule, Poland regained its independence in 1918. This newfound freedom and sense of national identity played a significant role in shaping the movement.
 
