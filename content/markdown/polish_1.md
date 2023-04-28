@@ -6,7 +6,7 @@ Polish Modernism was an artistic and cultural movement that emerged in Poland in
 
 Polish Modernism was characterized by a rejection of traditional academic styles and a desire to embrace modernity. It was an interdisciplinary movement that encompassed visual art, literature, music, and theater.
 
-### Visual Art
+## Visual Art
 
 In visual art, Polish Modernism was influenced by the Art Nouveau movement in Western Europe, but also drew inspiration from traditional Polish folk art and religious iconography. The artists of the period sought to create a distinctive national style that would reflect Poland's history, traditions, and cultural identity.
 
