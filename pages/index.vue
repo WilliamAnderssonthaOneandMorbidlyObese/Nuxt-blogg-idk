@@ -39,6 +39,7 @@ const { data } = await useAsyncData('page-data',() => queryContent('/markdown/')
 :deep(h2) { font-size: 30px; margin-top: 30px; margin-bottom: 15px; font-weight: semibold; } 
 :deep(p) { margin-top:15px; } 
 :deep(h3){ margin-top: 7px; margin-bottom: 7px; } 
+:deep(h4) { font-size: 35px; margin-top: 15px; margin-bottom: 15px; font-weight: bold; }
 :deep(ul) { list-style-type: disc; margin-top: 7px; margin-bottom: 7px; padding-left: 15px; } :deep(strong) { font-weight: bold; } 
 :deep(em){ font-style: italic; } 
 :deep(img){ width: 100%; height: 20rem; object-fit: cover; margin-top: 15px; margin-bottom: 15px; box-shadow: 2px; border-color: #FFF500; border-width: 2px; }
