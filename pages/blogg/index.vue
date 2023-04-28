@@ -3,10 +3,10 @@
         
         <div class=" w-11/12 h-[98%]  ">
             
-            <div class="text-[#FFF500] font-medium text-lg flex flex-col lg:flex-row">
+            <div class="text-[#FFF500] font-medium text-lg flex flex-col lg:grid lg:grid-cols-2">
                 <div v-for="d in data" class="bg-black/70 p-4 rounded-lg m-8">
                     <ContentRenderer :value = "d">
-                        <ContentRendererMarkdown :value = "d"></ContentRendererMarkdown>
+                        <ContentRendererMarkdown :value = "d" ></ContentRendererMarkdown>
                     </ContentRenderer>
                 </div>             
                 
