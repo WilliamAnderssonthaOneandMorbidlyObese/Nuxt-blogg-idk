@@ -46,8 +46,8 @@
      <div class="w-40">
         <NuxtLink to="/"><logo_home></logo_home></NuxtLink>
      </div>
-        <div>
-        about us
+        <div class="p-6 text-xl font-medium">
+       <NuxtLink to="/about">ABOUT US</NuxtLink>
         </div>
     </div>
 </template>
