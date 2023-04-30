@@ -1,42 +1,7 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Hemsida
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Hemsidan
 
-## Setup
-
-Make sure to install the dependencies:
-
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Kanske den först hemsidan jag gjort helt och hållet och helt själv. Blev inte så bra, men det blev något.
+Inspration:https://www.behance.net/gallery/165199243/Polish-Modernism?tracking_source=search_projects%7Cweb+design+blogg
+Jag följde inte jättemycket hemsidan, som man skulle, men lite känsla och färgerna har jag lånat. Mycket inspiration kom från min egen skalle och det blev som det blev.
