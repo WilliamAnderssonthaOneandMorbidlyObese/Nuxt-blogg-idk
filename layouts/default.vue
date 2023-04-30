@@ -9,10 +9,10 @@
                     
                     <li class="rounded-md px-4 p-2 border-[1px] border-transparent hover:border-[#FFF500]"><NuxtLink to="/blogg">BLOGG</NuxtLink></li>
                     
-                    <li class="rounded-md px-4 p-2 hidden sm:block border-[1px] border-transparent hover:border-[#FFF500]"> <NuxtLink to="<--!3d design-->">3D-Engineer</NuxtLink> </li>
-                    <li class="rounded-md px-8 block sm:hidden p-2 border-[1px] border-transparent hover:border-[#FFF500]"> <NuxtLink to="<--!3d design-->">3D</NuxtLink> </li>
-                    
                     <li class="rounded-md px-4 p-2 border-[1px] border-transparent hover:border-[#FFF500]"><NuxtLink to="/about">ABOUT US</NuxtLink></li>
+                    
+                    <li class="rounded-md px-4 p-2 hidden sm:block border-[1px] border-transparent hover:border-[#FFF500]"> <NuxtLink to="/error">404-errorpage</NuxtLink> </li>
+                    <li class="rounded-md px-8 block sm:hidden p-2 border-[1px] border-transparent hover:border-[#FFF500]"> <NuxtLink to="/error">error</NuxtLink> </li>
                 </ul>        
             </div>
         </header>
