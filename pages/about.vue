@@ -3,8 +3,8 @@
     
         <div class="text-[#FFF500] font-medium text-lg flex flex-col lg:w-4/6 z-50">
             <div class="bg-black/70 p-4 rounded-lg m-8">
-             <ContentRenderer :value = "data[4]">
-                 <ContentRendererMarkdown :value = "data[4]"></ContentRendererMarkdown>
+             <ContentRenderer :value = "data[0]">
+                 <ContentRendererMarkdown :value = "data[0]"></ContentRendererMarkdown>
              </ContentRenderer>
             </div>            
         </div>
@@ -14,7 +14,7 @@
 
 <script setup>
 
-const { data } = await useAsyncData('page-data', () => queryContent('/markdown/').find())
+const { data } = await useAsyncData('page-data', () => queryContent('/about').find())
 
 </script>
 
